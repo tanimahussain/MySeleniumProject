@@ -120,6 +120,7 @@ public class nopcommerce {
 
                 Thread.sleep(2000);
                // driver.close();
+           //my second practice
 
             }
 
