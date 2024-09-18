@@ -44,6 +44,7 @@ public class guru99 {
        airlne.selectByVisibleText("Blue Skies Airlines");
        WebElement enter= driver.findElement(By.xpath("//input[@name='findFlights']"));
        enter.click();
+       //my selenium project
 
 
 
